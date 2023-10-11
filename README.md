@@ -12,3 +12,7 @@ Currently works for few projects :
 Current week dev time :  
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@RaphTPLR/65d7e23e-c156-435e-b9e3-0759903e0cb6.png" /></a>
+
+<a href="https://wakatime.com/badge/projectId" style="filter: hue-rotate(120deg);">
+    <img src="https://wakatime.com/badge/projectId.svg" alt="Wakatime Badge">
+</a>
