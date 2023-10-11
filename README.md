@@ -11,4 +11,4 @@ Currently works for few projects :
 
 Current week dev time :  
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@RaphTPLR/300e5049-8c33-4ede-91b6-bfb8957d42e3.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@RaphTPLR/a1f1f9e1-d023-4b4c-bbf5-c964d797d533.png" /></a>
