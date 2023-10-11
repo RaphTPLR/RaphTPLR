@@ -9,8 +9,5 @@ Currently works for few projects :
   -> avg-challenge : [![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4.svg)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4)
 
 
-<!-- <img src="https://wakatime.com/share/@RaphTPLR/f7f59919-8524-4778-9ccd-28aa5f83b236.svg" height="400"> -->
-<!-- <img
-  src="https://github.com/RaphTPLR/RaphTPLR/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/> -->
+Current week dev time :  
+<figure><embed src="https://wakatime.com/share/@RaphTPLR/0932a1fd-341c-452f-af70-9039835ec918.svg"></embed></figure>
