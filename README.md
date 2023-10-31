@@ -7,7 +7,7 @@ My dev time since I've wakatime:
 
 Currently working on a few projects:    
 
-avg-challenge :  
+avg-challenge (https://avg-challenge.com/):  
 [![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4.svg?style=for-the-badge&color=red)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4)
 
 Current week dev time:  
