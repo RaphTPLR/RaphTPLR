@@ -8,7 +8,8 @@ My dev time since I've wakatime:
 Currently working on a few projects:    
 
 avg-challenge (https://avg-challenge.com/):  
-[![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4.svg?style=for-the-badge&color=red)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4)
+[![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4.svg?style=for-the-badge&color=red)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/a7e9e1a6-0e3f-47b1-acde-9a4af7bec4c4) + 
+[![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/c510befd-14e4-4fbf-bab5-318f1ba7bca5.svg?style=for-the-badge&color=red)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/c510befd-14e4-4fbf-bab5-318f1ba7bca5)
 
 LeagIn:  
 [![wakatime](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/018cb15a-66bb-439f-b789-6a89f5a7195c.svg?style=for-the-badge&color=red)](https://wakatime.com/badge/user/6bacae47-04b0-45e9-9329-f65b71d15ddc/project/018cb15a-66bb-439f-b789-6a89f5a7195c) + 
